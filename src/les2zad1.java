@@ -1,12 +1,14 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class les2zad1 {
     public static void main(String[] args) {
         long inputGold = 200L;
         byte inputSilver = 39;
         short inputWood = 2005;
         long inputHealth = 97L;
         boolean inputHasHelper = true;
+
+
 
         Resources characterResources = new Resources(
                 inputGold,
